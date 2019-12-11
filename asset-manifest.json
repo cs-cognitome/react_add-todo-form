@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react_add-todo-form/static/css/main.d36bb678.chunk.css",
+    "main.js": "/react_add-todo-form/static/js/main.9ca0322c.chunk.js",
+    "main.js.map": "/react_add-todo-form/static/js/main.9ca0322c.chunk.js.map",
+    "runtime~main.js": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js",
+    "runtime~main.js.map": "/react_add-todo-form/static/js/runtime~main.9d188fa2.js.map",
+    "static/js/2.4a41f9c6.chunk.js": "/react_add-todo-form/static/js/2.4a41f9c6.chunk.js",
+    "static/js/2.4a41f9c6.chunk.js.map": "/react_add-todo-form/static/js/2.4a41f9c6.chunk.js.map",
+    "index.html": "/react_add-todo-form/index.html",
+    "precache-manifest.111f0ea7dd07500ebcb6ec44efe7c4ec.js": "/react_add-todo-form/precache-manifest.111f0ea7dd07500ebcb6ec44efe7c4ec.js",
+    "service-worker.js": "/react_add-todo-form/service-worker.js",
+    "static/css/main.d36bb678.chunk.css.map": "/react_add-todo-form/static/css/main.d36bb678.chunk.css.map"
+  }
+}
